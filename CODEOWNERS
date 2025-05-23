@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @katter
+/src/backend/database.py      @katter
+/src/backend/routers/auth.py  @katter
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @katter
